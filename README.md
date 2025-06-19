@@ -17,6 +17,7 @@ This is a simple personal portfolio website built using only HTML and CSS. It sh
 ## Technologies Used
 - HTML
 - CSS
+- JavaScript
 
 ## Connect With Me
 - [LinkedIn](https://www.linkedin.com/in/bismark-cheruiyot/)
