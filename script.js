@@ -4,3 +4,5 @@ document.addEventListener("DOMContentLoaded", () => {
     alert("Welcome to Bismark's Portfolio!");
   });
 });
+ const date = new Date()
+ document.getElementById('year').innerHTML = date.getFullYear()
